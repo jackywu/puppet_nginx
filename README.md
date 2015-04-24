@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nginx
 
 #### Table of Contents
@@ -77,3 +78,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You may also add any additional sections you feel are
 necessary or important to include here. Please use the `## ` header.
+=======
+# puppet_nginx
+>>>>>>> b2dff80c8bc3829f5e651e5a8eced544314f857d
